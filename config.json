@@ -3,7 +3,7 @@
     "title": "Computer Science",
     "school": "Mergington High School",
     "description": "Introduction to programming and computer science"
-  },
+  },  
   "assignments": [
     {
       "id": "python-basics",
